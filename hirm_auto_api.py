@@ -2,7 +2,7 @@ import requests
 class HirmLoginApi:
   @classmethod
   def hirm_login(cls,json_data):
-    resp = requests.post("https://hirm.cn.com/login/login",
+    resp = requests.post("http://ihrm-java.itheima.net/api/sys/login",
                          headers={"User-Agent": "PostmanRuntime/7.39.0"},
                          json=json_data)
     print(resp.json())
