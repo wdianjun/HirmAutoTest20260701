@@ -10,5 +10,5 @@ class HirmLoginApi:
 
 
 if __name__ == '__main__':
-  json_data = {"mobile": "13800000002", "password": "929itheima.CN032@.20260701"}
+  json_data = {"mobile": "13800000002", "password": "929itheima.CN032@.20260702"}
   HirmLoginApi.hirm_login(json_data)
