@@ -1,0 +1,164 @@
+[
+  {
+    "desc": "登录成功",
+    "req_data": {
+      "mobile": "13800000002",
+      "password": "929itheima.CN032@.20260706"
+    },
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功！"
+  },
+  {
+    "desc": "手机号未注册",
+    "req_data": {
+      "mobile": "13800000001",
+      "password": "929itheima.CN032@.20260706"
+    },
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "密码错误",
+    "req_data": {
+      "mobile": "13800000001",
+      "password": "929itheima.CN032@.20260600"
+    },
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "手机号为空",
+    "req_data": {
+      "mobile": null,
+      "password": "929itheima.CN032@.20260706"
+    },
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "手机号含有特殊字符",
+    "req_data": {
+      "mobile": "13800#00001",
+      "password": "929itheima.CN032@.20260706"
+    },
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "10位手机号",
+    "req_data": {
+      "mobile": "1380000001",
+      "password": "929itheima.CN032@.20260706"
+    },
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "12位手机号",
+    "req_data": {
+      "mobile": "13800000011",
+      "password": "929itheima.CN032@.20260706"
+    },
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "密码为空",
+    "req_data": {
+      "mobile": "13800000002",
+      "password": null
+    },
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "密码含有特殊字符",
+    "req_data": {
+      "mobile": "13800000002",
+      "password": "929i@#$%^&"
+    },
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "密码1位",
+    "req_data": {
+      "mobile": "13800000002",
+      "password": "9"
+    },
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "密码100位",
+    "req_data": {
+      "mobile": "13800000002",
+      "password": "92222222222222222234555555555555555555543655555555555555"
+    },
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "多参",
+    "req_data": {
+      "mobile": "13800000002",
+      "password": "929itheima.CN032@.20260706",
+      "data1": "123214"
+    },
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功！"
+  },
+  {
+    "desc": "少参-password",
+    "req_data": {
+      "mobile": "13800000002"
+    },
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "无参",
+    "req_data": null,
+    "status_code": 200,
+    "success": false,
+    "code": 99999,
+    "message": "抱歉，系统繁忙，请稍后重试！"
+  },
+  {
+    "desc": "错误参数",
+    "req_data": {
+      "abc": "13800000002",
+      "password": "929itheima.CN032@.20260706"
+    },
+    "status_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  }
+]
