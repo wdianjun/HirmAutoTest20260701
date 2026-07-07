@@ -3,7 +3,7 @@
     "desc": "登录成功",
     "req_data": {
       "mobile": "13800000002",
-      "password": "929itheima.CN032@.20260706"
+      "password": "929itheima.CN032@.20260707"
     },
     "status_code": 200,
     "success": true,
@@ -14,7 +14,7 @@
     "desc": "手机号未注册",
     "req_data": {
       "mobile": "13800000001",
-      "password": "929itheima.CN032@.20260706"
+      "password": "929itheima.CN032@.20260707"
     },
     "status_code": 200,
     "success": false,
@@ -36,7 +36,7 @@
     "desc": "手机号为空",
     "req_data": {
       "mobile": null,
-      "password": "929itheima.CN032@.20260706"
+      "password": "929itheima.CN032@.20260707"
     },
     "status_code": 200,
     "success": false,
@@ -47,7 +47,7 @@
     "desc": "手机号含有特殊字符",
     "req_data": {
       "mobile": "13800#00001",
-      "password": "929itheima.CN032@.20260706"
+      "password": "929itheima.CN032@.20260707"
     },
     "status_code": 200,
     "success": false,
@@ -58,7 +58,7 @@
     "desc": "10位手机号",
     "req_data": {
       "mobile": "1380000001",
-      "password": "929itheima.CN032@.20260706"
+      "password": "929itheima.CN032@.20260707"
     },
     "status_code": 200,
     "success": false,
@@ -69,7 +69,7 @@
     "desc": "12位手机号",
     "req_data": {
       "mobile": "13800000011",
-      "password": "929itheima.CN032@.20260706"
+      "password": "929itheima.CN032@.20260707"
     },
     "status_code": 200,
     "success": false,
@@ -124,7 +124,7 @@
     "desc": "多参",
     "req_data": {
       "mobile": "13800000002",
-      "password": "929itheima.CN032@.20260706",
+      "password": "929itheima.CN032@.20260707",
       "data1": "123214"
     },
     "status_code": 200,
@@ -154,7 +154,7 @@
     "desc": "错误参数",
     "req_data": {
       "abc": "13800000002",
-      "password": "929itheima.CN032@.20260706"
+      "password": "929itheima.CN032@.20260707"
     },
     "status_code": 200,
     "success": false,

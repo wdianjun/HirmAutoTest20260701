@@ -1,0 +1,15 @@
+2026-07-07 17:12:14,650 INFO [test_login_params.py(test_login_params:21)] - 登录成功: {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '3f0b6d6b-4aa9-4aa6-85ac-6a5f04fbc507'}
+2026-07-07 17:12:14,938 INFO [test_login_params.py(test_login_params:21)] - 手机号未注册: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2026-07-07 17:12:15,250 INFO [test_login_params.py(test_login_params:21)] - 密码错误: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2026-07-07 17:12:15,499 INFO [test_login_params.py(test_login_params:21)] - 手机号为空: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2026-07-07 17:12:15,817 INFO [test_login_params.py(test_login_params:21)] - 手机号含有特殊字符: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2026-07-07 17:12:16,072 INFO [test_login_params.py(test_login_params:21)] - 10位手机号: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2026-07-07 17:12:16,347 INFO [test_login_params.py(test_login_params:21)] - 12位手机号: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2026-07-07 17:12:16,651 INFO [test_login_params.py(test_login_params:21)] - 密码为空: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2026-07-07 17:12:16,938 INFO [test_login_params.py(test_login_params:21)] - 密码含有特殊字符: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2026-07-07 17:12:17,230 INFO [test_login_params.py(test_login_params:21)] - 密码1位: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2026-07-07 17:12:17,491 INFO [test_login_params.py(test_login_params:21)] - 密码100位: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2026-07-07 17:12:17,777 INFO [test_login_params.py(test_login_params:21)] - 多参: {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '0998e892-f183-4c62-841c-cabe3ff9c424'}
+2026-07-07 17:12:18,058 INFO [test_login_params.py(test_login_params:21)] - 少参-password: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2026-07-07 17:12:18,326 INFO [test_login_params.py(test_login_params:21)] - 无参: {'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2026-07-07 17:12:18,581 INFO [test_login_params.py(test_login_params:21)] - 错误参数: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}

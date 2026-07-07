@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e391831-496f-42a1-9fb0-b5d8eb279679" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7e391831-496f-42a1-9fb0-b5d8eb279679" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,63 +20,67 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0842021037555278" />
-      <entry key="MS500" value="1.6486354912406833" />
-      <entry key="S2" value="3.5393451726236664" />
-      <entry key="S5" value="8.475779962625907" />
-      <entry key="S10" value="14.167657385040208" />
-      <entry key="S30" value="22.25869041575621" />
-      <entry key="S60" value="28.608389650383607" />
-      <entry key="M2" value="38.90782490359161" />
-      <entry key="M5" value="52.96863239473829" />
-      <entry key="M10" value="61.04810403750525" />
-      <entry key="M15" value="65.04802026773204" />
-      <entry key="M30" value="70.75591696426932" />
-      <entry key="H1" value="74.75673052462561" />
-      <entry key="H2" value="77.1921318057064" />
-      <entry key="H4" value="78.54493583856774" />
-      <entry key="D1" value="79.74996167737" />
-      <entry key="W1" value="79.96409005371233" />
+      <entry key="MS100" value="1.0008852772096213" />
+      <entry key="MS500" value="1.5605241254792903" />
+      <entry key="S2" value="2.965993066861395" />
+      <entry key="S5" value="3.532726639405187" />
+      <entry key="S10" value="3.7563546233996576" />
+      <entry key="S30" value="3.916452430964341" />
+      <entry key="S60" value="3.962578832152126" />
+      <entry key="M2" value="4.475014942677923" />
+      <entry key="M5" value="13.243651098286174" />
+      <entry key="M10" value="29.51004370570189" />
+      <entry key="M15" value="40.358650915923874" />
+      <entry key="M30" value="56.89990254235848" />
+      <entry key="H1" value="68.63941325833959" />
+      <entry key="H2" value="75.77890419388372" />
+      <entry key="H4" value="79.74084388419266" />
+      <entry key="D1" value="83.2682278273272" />
+      <entry key="W1" value="83.89490687762185" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="3.0708803000705953E-290" />
-      <entry key="S5" value="1.5764605011721282E-116" />
-      <entry key="S10" value="1.3518295225876568E-58" />
-      <entry key="S30" value="7.158437283710057E-20" />
-      <entry key="S60" value="3.704986901138636E-10" />
-      <entry key="M2" value="2.7073020311852325E-5" />
-      <entry key="M5" value="0.022545392397423706" />
-      <entry key="M10" value="0.21229895546245248" />
-      <entry key="M15" value="0.4483534889252043" />
-      <entry key="M30" value="0.9469228546323045" />
-      <entry key="H1" value="1.3761622109431706" />
-      <entry key="H2" value="1.6590105376769513" />
-      <entry key="H4" value="1.8215428971927943" />
-      <entry key="D1" value="1.9690868585824053" />
-      <entry key="W1" value="1.9955542975510356" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="5.382891656613528E-162" />
+      <entry key="S10" value="2.497975642003953E-81" />
+      <entry key="S30" value="1.8925192915043345E-27" />
+      <entry key="S60" value="6.024176981168816E-14" />
+      <entry key="M2" value="3.4521704583915717E-7" />
+      <entry key="M5" value="0.003938038952563075" />
+      <entry key="M10" value="0.0887276464824348" />
+      <entry key="M15" value="0.25062705829553406" />
+      <entry key="M30" value="0.7079756162467807" />
+      <entry key="H1" value="1.1899301778488822" />
+      <entry key="H2" value="1.5426772321192477" />
+      <entry key="H4" value="1.7565170349137467" />
+      <entry key="D1" value="1.9571932121137183" />
+      <entry key="W1" value="1.9938278926691804" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0267158882084222" />
-      <entry key="MS500" value="1.6116240523009904" />
-      <entry key="S2" value="3.5112144689306923" />
-      <entry key="S5" value="8.452726062021712" />
-      <entry key="S10" value="14.150915517909077" />
-      <entry key="S30" value="22.25089719856835" />
-      <entry key="S60" value="28.60352961294096" />
-      <entry key="M2" value="38.90457078880994" />
-      <entry key="M5" value="52.98906294209887" />
-      <entry key="M10" value="61.257676607553215" />
-      <entry key="M15" value="65.49316509700179" />
-      <entry key="M30" value="71.69972393679252" />
-      <entry key="H1" value="76.13066794285864" />
-      <entry key="H2" value="78.84980718494351" />
-      <entry key="H4" value="80.36574668907711" />
-      <entry key="D1" value="81.71891672991917" />
-      <entry key="W1" value="81.95962527012422" />
+      <entry key="MS100" value="0.660604763009567" />
+      <entry key="MS500" value="1.4762885291023962" />
+      <entry key="S2" value="2.94154662059151" />
+      <entry key="S5" value="3.5224525165829537" />
+      <entry key="S10" value="3.751121387348662" />
+      <entry key="S30" value="3.914685212027581" />
+      <entry key="S60" value="3.961691487247389" />
+      <entry key="M2" value="4.474529427440436" />
+      <entry key="M5" value="13.247041946167695" />
+      <entry key="M10" value="29.597542970229792" />
+      <entry key="M15" value="40.607425062416446" />
+      <entry key="M30" value="57.60551889261484" />
+      <entry key="H1" value="69.82740489339716" />
+      <entry key="H2" value="77.32033247906355" />
+      <entry key="H4" value="81.496651298836" />
+      <entry key="D1" value="85.22528941180646" />
+      <entry key="W1" value="85.88871561741162" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -92,27 +94,33 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python 测试.scripts.test_login.TestHirmLogin.test_login01 的 Python 测试.executor": "Run",
-    "Python.111.executor": "Run",
-    "Python.hirm_auto_api.executor": "Run",
-    "Python.hirm_login.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/test/MyProject/HirmAutoTest20260701",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python 测试.scripts.test_login.TestHirmLogin.test_login01 的 Python 测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python.111.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hirm_auto_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hirm_login.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/test/MyProject/HirmAutoTest20260701&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/common" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.hirm_login">
     <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ApiTest-20260701" />
@@ -148,7 +156,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.13 (HirmautoApi20260701)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -174,7 +181,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.13 (HirmautoApi20260701)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
