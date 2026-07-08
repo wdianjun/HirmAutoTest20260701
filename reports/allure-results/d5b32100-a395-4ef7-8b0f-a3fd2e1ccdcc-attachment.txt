@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_login_params_allure.py:53 登录成功: {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '9cdab3de-2d85-4d32-9194-a8c1bea565ec'}
