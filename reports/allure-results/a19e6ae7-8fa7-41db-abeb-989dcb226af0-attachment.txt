@@ -1,0 +1,1 @@
+INFO     root:test_login_params_allure.py:53 无参: {'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}

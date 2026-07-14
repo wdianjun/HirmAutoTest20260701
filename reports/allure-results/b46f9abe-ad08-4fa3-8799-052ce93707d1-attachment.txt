@@ -1,0 +1,1 @@
+INFO     root:test_login_params_allure.py:53 登录成功: {'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'd2b7d1ea-31be-4af6-b01d-e828ad14bc1e'}

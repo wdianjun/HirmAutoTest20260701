@@ -1,1 +1,0 @@
-[32mINFO    [0m root:test_login_params_allure.py:53 多参: {'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'cd7526ff-0637-428b-90cf-caae1855f7d9'}
